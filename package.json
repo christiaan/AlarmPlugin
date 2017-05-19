@@ -1,0 +1,27 @@
+{
+  "name": "AlarmPlugin",
+  "version": "0.1.0",
+  "description": "Sample Alarm Plugin",
+  "cordova": {
+    "id": "com.uniclau.alarmplugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christiaan/AlarmPlugin.git"
+  },
+  "keywords": [
+    "phonegap",
+    "alarm",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christiaan/AlarmPlugin/issues"
+  },
+  "homepage": "https://github.com/christiaan/AlarmPlugin#readme"
+}
